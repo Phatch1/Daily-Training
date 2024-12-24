@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2L2PjZi9x4kcnkjQssdnHuMH85tKAkI8lWAyxQMrK0PjG7VqZWgbQZ9vFA2CilJkOPv0BBq4yQaWUeKPw5Tng==",
+  "success": true,
+  "projectFilePath": "D:\\Daily Training\\Daily-Training\\ASPNet8_Test_01\\ASPNet8_Test_01\\ASPNet8_Test_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benzp\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\benzp\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\benzp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\benzp\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
